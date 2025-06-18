@@ -23,6 +23,4 @@
 </div>
 <div><br/>
 
-![VitorRenk's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorRenk&theme=dracula)
-
 ![VitorRenk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRenk&theme=dracula)
