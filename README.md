@@ -1,7 +1,7 @@
 
 # Hey there, I'm Vitor Renk 👨‍💻
-#### Nice to meet you! I’m a programming student who is continuously seeking to grow by learning new technologies and working on various projects.
-#### I’m currently learning more about databases, DevOps, and modern containerization technologies.
+### Nice to meet you! I’m a programming student who is continuously seeking to grow by learning new technologies and working on various projects.
+### I’m currently learning more about databases, DevOps, and modern containerization technologies.
 
 
 ## Technologies I work with:
