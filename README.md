@@ -1,6 +1,6 @@
 
-# Hey There. I'm Vitor Renk 👨‍💻
-#### Nice to meet you! I am a programming student who seeks to continuously develop by learning new technologies and working on some projects.
+# Hey there, I'm Vitor Renk 👨‍💻
+#### Nice to meet you! I’m a programming student who is continuously seeking to grow by learning new technologies and working on various projects.
 
 
 ## Technologies I work with:
